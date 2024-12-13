@@ -1,0 +1,4 @@
+# ninja log v5
+26	25714	1702533416792958942	/home/hhy/testADA/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-37/gridding_cuda.o	7d3c2765c5fe722
+42	47639	1702533438712934401	/home/hhy/testADA/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-37/gridding_reverse.o	a2007c4d5491ee7a
+1	58531	1702533449620922078	/home/hhy/testADA/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-37/gridding.o	22ac7ee481db7275
